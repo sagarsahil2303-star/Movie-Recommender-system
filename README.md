@@ -12,3 +12,7 @@ Built With:
 -Streamlit 
 -Pandas 
 -Scikit-Learn
+
+Credits
+Throughout the development of this project, I have sought inspiration from a pivotal video source:
+https://youtu.be/1xtrIEwY_zY
