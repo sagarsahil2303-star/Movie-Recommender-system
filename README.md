@@ -7,7 +7,7 @@ What it does:
 -Get 5 similar movie recommendations 
 -View movie posters 
 
-Built With 
+Built With:
 -Python 
 -Streamlit 
 -Pandas 
